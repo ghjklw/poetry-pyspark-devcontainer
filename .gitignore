@@ -11,6 +11,3 @@ dist/
 
 # Test data directory
 spark-warehouse
-
-# IDE
-.vscode
